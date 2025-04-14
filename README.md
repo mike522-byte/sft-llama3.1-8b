@@ -20,7 +20,7 @@ Each entry in the dataset includes:
 
 - **Hardware**: 4 × A800 GPUs (80GB RAM each)
 - **Duration**: \~24 hours
-- **Parallelization**: DeepSpeed ZeRO-2 / Accelerate multi-GPU
+- **Parallelization**: DeepSpeed ZeRO-2
 - **Precision**: FP16
 
 ### Training Configuration
